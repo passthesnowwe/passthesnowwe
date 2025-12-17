@@ -24,10 +24,16 @@
 -->
 ## 💼 Work Experience
 
+| Company | Role | Duration |
+| :--- | :--- | :--- | :--- |
+| **[True Digital Group]** | [SOC Analyst Intern] | [January 2026] - [May 2026] |
+<!--
+## 💼 Work Experience
+
 | Company | Role | Duration | Description |
 | :--- | :--- | :--- | :--- |
-| **[True Digital Group]** | [SOC Analyst Intern] | [January 2026] - [May 2026] | <!--Built features using [Tech Stack]. Improved [Metric]. |-->
-
+| **[True Digital Group]** | [SOC Analyst Intern] | [January 2026] - [May 2026] | Built features using [Tech Stack]. Improved [Metric]. |
+-->
 ---
 
 ## 📈 GitHub Stats
