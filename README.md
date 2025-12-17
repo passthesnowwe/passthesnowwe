@@ -1,6 +1,6 @@
-# Hi there, I'm [ALICE] 👋
+# Hi there, I'm ALICE 👋
 
-### 👨‍💻 [Cyber Security Analyst]
+<!--### 👨‍💻 [Cyber Security Analyst]
 
 - 🔭 I’m currently working on **[Project Name/Link]**
 - 🌱 I’m currently learning **[New Skill]**
@@ -21,13 +21,12 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
+-->
 ## 💼 Work Experience
 
 | Company | Role | Duration | Description |
 | :--- | :--- | :--- | :--- |
-| **[Company A]** | [Job Title] | [Start] - [End] | Built features using [Tech Stack]. Improved [Metric]. |
-| **[Company B]** | [Job Title] | [Start] - [End] | Led development of [Product]. Managed [Team Size]. |
+| **[True Digital Group]** | [SOC Analyst Intern] | [January 2026] - [May 2026] | <!--Built features using [Tech Stack]. Improved [Metric]. |-->
 
 ---
 
