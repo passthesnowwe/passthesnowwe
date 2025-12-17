@@ -40,6 +40,7 @@
 
 <div align="center">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=passthesnowwe&show_icons=true&theme=radical" height="180" alt="passthesnowwe's Github Stats" />-->
+  <img src="https://github-stats-alpha.vercel.app/api?username={passthesnowwe}" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=passthesnowwe&layout=compact&theme=radical" height="180" alt="passthesnowwe's Top Langs" />
 </div>
 
