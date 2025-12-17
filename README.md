@@ -25,7 +25,7 @@
 ## 💼 Work Experience
 
 | Company | Role | Duration |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | **[True Digital Group]** | [SOC Analyst Intern] | [January 2026] - [May 2026] |
 <!--
 ## 💼 Work Experience
