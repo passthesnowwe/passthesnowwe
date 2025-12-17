@@ -22,24 +22,24 @@
 
 ---
 -->
-## 💼 Work Experience
+<!--## 💼 Work Experience
 
 | Company | Role | Duration |
 | :--- | :--- | :--- |
 | **[True Digital Group]** | [SOC Analyst Intern] | [January 2026] - [May 2026] |
-<!--
+
 ## 💼 Work Experience
 
 | Company | Role | Duration | Description |
 | :--- | :--- | :--- | :--- |
 | **[True Digital Group]** | [SOC Analyst Intern] | [January 2026] - [May 2026] | Built features using [Tech Stack]. Improved [Metric]. |
--->
----
 
+---
+-->
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=passthesnowwe&show_icons=true&theme=radical" height="180" alt="passthesnowwe's Github Stats" />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=passthesnowwe&show_icons=true&theme=radical" height="180" alt="passthesnowwe's Github Stats" />-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=passthesnowwe&layout=compact&theme=radical" height="180" alt="passthesnowwe's Top Langs" />
 </div>
 
@@ -48,8 +48,3 @@
 </div>-->
 
 ---
-
-## 🤝 Connect with Me
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/passthesnowwe/)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/passthesnowwe)
