@@ -1,1 +1,1 @@
-<img src="banner.gif" width="900" alt="Description of GIF">
+<img src="banner.gif" autoplay loop muted playsinline width="600"></img>
