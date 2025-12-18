@@ -1,1 +1,1 @@
-![Greeting](Alice Madness Returns - Vale of Tears.gif)
+![Greeting](banner.gif)
