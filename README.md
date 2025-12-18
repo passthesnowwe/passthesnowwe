@@ -3,4 +3,4 @@
   <img src="banner.png" width="65%">
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/{passthesnowwe}/count.svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=passthesnowwe&theme=synthwave)](https://git.io/streak-stats)
