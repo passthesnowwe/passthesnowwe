@@ -1,1 +1,1 @@
-![til](banner.gif)
+<img src="banner.gif"/>
