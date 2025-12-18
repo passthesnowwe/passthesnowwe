@@ -3,4 +3,4 @@
   <img src="banner.png" width="65%">
 </p>
 
-![Visitor Count](https : //profile-counter.glitch.me/{passthesnowwe}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{passthesnowwe}/count.svg)
